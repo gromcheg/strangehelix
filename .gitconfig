@@ -1,0 +1,7 @@
+[user]
+	name = Artem Yankov
+	email = artemyankov@gmail.com
+[merge]
+	tool = opendiff
+[push]
+	default = current
